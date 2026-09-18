@@ -82,8 +82,8 @@ To perform Exploratory Data Analysis (EDA) on the IPL matches dataset by cleanin
 
 ```
 Experiment -1
-Developed by : Niranjani.C
-Registration number : 212223220069
+Developed by : SOWAJANYA K
+Registration number : 212223090023
 
 import pandas as pd
 import matplotlib.pyplot as plt
